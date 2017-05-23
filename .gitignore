@@ -1,0 +1,7 @@
+*.*
+
+!.gitignore
+!circle.yml
+!*.jar
+!*.dmg
+!*.exe
