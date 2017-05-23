@@ -1,0 +1,4 @@
+<map id="org.lightvoting.simulation.agent.CVotingAgent.CVotingAgentGenerator" name="org.lightvoting.simulation.agent.CVotingAgent.CVotingAgentGenerator">
+<area shape="rect" id="node2" href="$db/d1a/classorg_1_1lightvoting_1_1simulation_1_1environment_1_1CEnvironment.html" title="Created by sophie on 22.02.17. " alt="" coords="5,6,237,266"/>
+<area shape="rect" id="node3" href="$d5/da4/classorg_1_1lightvoting_1_1simulation_1_1action_1_1message_1_1CSend.html" title="Action to send messages for communication. " alt="" coords="261,66,512,206"/>
+</map>

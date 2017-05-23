@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$d5/db8/classorg_1_1lightvoting_1_1CMainTest.html" title="Unit test for simple CMain. " alt="" coords="145,5,306,30"/>
+<area shape="rect" id="node3" href="$dd/d6e/classorg_1_1lightvoting_1_1simulation_1_1agent_1_1CVotingAgentGeneratorTest.html" title="Unit test for CVotingAgentGenerator. " alt="" coords="128,54,323,93"/>
+<area shape="rect" id="node4" href="$d5/d0d/classorg_1_1lightvoting_1_1simulation_1_1agent_1_1CVotingAgentTest.html" title="Unit test for CVotingAgent. " alt="" coords="128,117,323,155"/>
+<area shape="rect" id="node5" href="$d1/d6d/classorg_1_1lightvoting_1_1simulation_1_1rule_1_1CMinimaxApprovalTest.html" title="Created by sophie on 09.02.17. " alt="" coords="133,179,318,218"/>
+<area shape="rect" id="node6" href="$d0/dd0/classorg_1_1lightvoting_1_1simulation_1_1rule_1_1CMinisumApprovalTest.html" title="Created by sophie on 01.02.17. " alt="" coords="133,242,318,281"/>
+</map>
